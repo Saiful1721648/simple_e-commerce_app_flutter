@@ -216,7 +216,7 @@ class _HomePageState extends State<HomePage> {
                     ),
                   ),
                   child: const Text(
-                    'CHECK OUT',
+                    'Check out',
                     style: TextStyle(fontSize: 16, color: Colors.white),
                   ),
                 ),
